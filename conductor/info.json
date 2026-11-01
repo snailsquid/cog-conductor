@@ -1,0 +1,12 @@
+{
+    "author": ["snailsquid"],
+    "name": "Conductor",
+    "short": "Installs, updates and rolls back cogs from git pushes.",
+    "description": "HTTP API + GitHub webhook + fallback poll that drive Downloader, and a file watcher that hot-reloads local cogs on the dev bot.",
+    "end_user_data_statement": "This cog does not store data about users.",
+    "requirements": [],
+    "min_bot_version": "3.5.24",
+    "hidden": true,
+    "disabled": false,
+    "type": "COG"
+}

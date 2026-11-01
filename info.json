@@ -1,0 +1,8 @@
+{
+    "author": ["snailsquid"],
+    "name": "cog-conductor",
+    "short": "Conductor: git-push-driven cog management for Red.",
+    "description": "HTTP API, GitHub webhook and fallback poll around Downloader, plus a dev-mode hot reloader.",
+    "install_msg": "Load with `[p]load conductor`. Not self-updating: use `[p]cog update conductor`.",
+    "type": "COG"
+}
